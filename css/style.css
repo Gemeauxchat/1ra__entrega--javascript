@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+}
+.nav__ul{
+    display:flex;
+    list-style: none;
+    background-color:blue;
+    color:black;
+    justify-content: space-evenly;
+    padding:10px;
+
+
+}
+.nav__ul li{
+}
